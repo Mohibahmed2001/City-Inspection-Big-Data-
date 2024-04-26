@@ -1,7 +1,3 @@
-Certainly! Here's a README summary for your MongoDB-based data analysis project:
-
----
-
 ## MongoDB City Inspections Analysis
 
 ### Project Overview
